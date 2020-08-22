@@ -1,5 +1,8 @@
 # Udemy - UE4 BP Section 1
 
+Course: [Udemy: Unreal Engine Learn Blueprint Scripting](https://www.udemy.com/course/unrealblueprint/)
+
+
 My `Awesome Marble Game`.
 
 This UE4 project uses blueprints to allow the player to guide a ball to the goal.
@@ -14,7 +17,6 @@ The level uses box triggers with overlap events to detect when the ball reaches 
 
 Don't move the mouse too fast, or you'll lose.
 
-[Unreal Engine Learn Blueprint Scripting](https://www.udemy.com/course/unrealblueprint/)
 
 **Blueprint - Input**
 
