@@ -14,7 +14,7 @@ If the ball falls out of the map, the player loses.
 
 If the ball reaches the goal, the player loses.
 
-The level has a custom floor and custom walls that were built with geometry bushes with `additive` and `subtractive` operations.
+The level has a custom floor and custom walls that were built with geometry brushes with `additive` and `subtractive` operations.
 
 The level uses box triggers with overlap events to detect when the ball reaches a collider.
 
